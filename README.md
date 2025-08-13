@@ -6,4 +6,7 @@ Prueba - Conversor de monedas
  cambios funcionan correctamente ✅
  4. Se usa try catch para ejecutar el método fetch y capturar los posibles errores
  mostrando el error en el DOM en caso de que haya problemas ✅
- 5. SeImplementa el gráfico pedido (1 punto).✅
+ 5. Se Implementa el gráfico pedido (1 punto).✅
+
+
+Pagina desplegada : https://xllnakullx.github.io/Conversor-de-monedas/
